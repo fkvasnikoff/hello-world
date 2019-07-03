@@ -1,2 +1,2 @@
 # hello-world
-A repository of sorts
+I like long walks on the moon and space rocks in my cereal.
